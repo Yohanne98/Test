@@ -1,5 +1,6 @@
 ## Start api
-
+    
+    cd api
     npm install
     npm run serve
 
